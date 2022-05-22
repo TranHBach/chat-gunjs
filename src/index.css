@@ -1,0 +1,17 @@
+html {
+  font-size: 62.5%;
+  font-family: "Inter";
+  overflow: scroll;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  /* background-color: #eee; */
+  color: #333;
+  /* position: relative; */
+}
